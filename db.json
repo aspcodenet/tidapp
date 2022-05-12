@@ -1,0 +1,27 @@
+{
+    "companies": [
+      {
+        "id": 1,
+        "title": "Scania",
+        "projects": [
+            "Public web",
+            "Documentation 2022"
+        ] 
+      },
+      {
+        "id": 2,
+        "title": "Handelsbanken",
+        "projects": [
+            "Internal analysis",
+            "Reporting",
+            "Production management"
+        ]
+      },
+      {
+          "id": 3,
+          "title": "Internal",
+          "projects":["Meetings", "Education"]
+      }
+
+    ]
+  }
